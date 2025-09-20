@@ -43,8 +43,8 @@ This project provides everything you need to build a modern, mobile-friendly Woo
 1. **Clone this repo:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/woocommerce-shop-ecommerce-mobile-app-ionic-angular-full.git
-cd woocommerce-shop-ecommerce-mobile-app-ionic-angular-full
+git clone https://github.com/YOUR_USERNAME/git@github.com:hasancse06/Complete-WooCommerce-Mobile-App-Using-Ionic-Angular.git
+cd git@github.com:hasancse06/Complete-WooCommerce-Mobile-App-Using-Ionic-Angular
 ```
 
 ## 🧠 SEO Keywords
