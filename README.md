@@ -61,6 +61,7 @@ cd git@github.com:hasancse06/Complete-WooCommerce-Mobile-App-Using-Ionic-Angular
    
 ## 🙌 Author
 
+**M A Hasan**
 - 🔭 Full-Stack Web Developer | Ionic Framework, Angular, Node.js & REST APIs
 - 🌐 About Me [https://hasan.online](https://hasan.online)
 - 🎓 Instructor on [Udemy](https://www.udemy.com/user/m-a-hasan-2/)
